@@ -37,8 +37,9 @@ t[1].setOutputPlaces(p5);
 ```
 :100: Working
 
-Here is a sample output of algorithm
+Here is a sample output:
 
+![Alt petri-net-output](petri-net-output.png?raw=true "Patri Net Ouput")
 
 
 # License

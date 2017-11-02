@@ -44,4 +44,4 @@ Here is a sample output:
 
 # License
 
-Licenced Under GPL 2.0.
+Licensed Under GPL 2.0.
